@@ -24,11 +24,13 @@ LOCAL_OBJ_FILES := \
     source/row_common.o        \
     source/row_mips.o          \
     source/row_gcc.o           \
+    source/row_neon.o          \
     source/scale.o             \
     source/scale_any.o         \
     source/scale_argb.o        \
     source/scale_common.o      \
     source/scale_gcc.o         \
+    source/scale_neon.o        \
     source/scale_mips.o        \
     source/video_common.o
 
