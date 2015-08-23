@@ -20,6 +20,8 @@ LOCAL_OBJ_FILES := \
     source/rotate.o            \
     source/rotate_argb.o       \
     source/rotate_mips.o       \
+    source/rotate_neon.o       \
+    source/rotate_neon64.o     \
     source/row_any.o           \
     source/row_common.o        \
     source/row_mips.o          \
